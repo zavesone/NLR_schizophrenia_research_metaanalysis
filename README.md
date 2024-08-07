@@ -61,7 +61,7 @@ For any queries regarding this project, please open an issue in this repository 
 
 This project adheres to the principles of open science, promoting transparency and reproducibility in research. By sharing this code, we aim to contribute to the collective advancement of knowledge in the field of schizophrenia research and meta-analytical methods.
 
-![mygif](https://pouch.jumpshare.com/preview/vtALKNFwvEi4wmq3Be1VKVMRh3_N85J_mHFFH9Qg9VxBoIBYAJ81zLVTigTsG_2jjGWPItJJyfv4S96I87ukZxM5xNqrhAiOXXj9K3-MbT8)
+![mygif](https://s12.gifyu.com/images/SDxHt.gif)
 
 *"In the spirit of scientific collaboration, we believe that open access to methodologies accelerates progress and fosters innovation."*
 
