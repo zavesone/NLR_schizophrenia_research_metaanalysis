@@ -1,4 +1,5 @@
 # Meta-Analysis of Neutrophil-to-Lymphocyte Ratio in Schizophrenia
+![mygif](https://s12.gifyu.com/images/SDs0v.gif)
 
 This repository contains the Python code used to conduct a meta-analysis on the Neutrophil-to-Lymphocyte Ratio (NLR) in patients with various types of schizophrenia compared to healthy controls.
 
@@ -8,7 +9,7 @@ This meta-analysis investigates the differences in NLR between different schizop
 
 ## Contents
 
-- `nlr_meta_analysis.py`: Python script containing the analysis code and forest plot generation
+- `NRL_schizo_meta_analysis.ipynb`: Python script containing the analysis code and forest plot generation
 - `forest_plot.png`: Output forest plot visualizing the results
 
 ## Schizophrenia Subgroups Analyzed
@@ -54,3 +55,13 @@ Fedor Kostin
 ## Contact
 
 For any queries regarding this project, please open an issue in this repository or contact [fedor3016@gmail.com].
+
+## Commitment to Open Science
+
+This project adheres to the principles of open science, promoting transparency and reproducibility in research. By sharing this code, we aim to contribute to the collective advancement of knowledge in the field of schizophrenia research and meta-analytical methods.
+
+![Open Science GIF](https://s12.gifyu.com/images/SDs0W.gif)
+
+*"In the spirit of scientific collaboration, we believe that open access to methodologies accelerates progress and fosters innovation."*
+
+By making this code publicly available, we invite peers to review, validate, and build upon our work, ultimately strengthening the reliability of scientific findings in our field.
