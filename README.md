@@ -51,7 +51,23 @@ The forest plot shows the mean differences in NLR for each schizophrenia subgrou
 Further research is needed to explore the relationship between NLR, schizophrenia, and metabolic disorders. Studies specifically examining NLR as a risk marker for metabolic disorders in schizophrenia patients are recommended.
 
 ## Contributors
-Fedor Kostin
+N.V. Zakharova
+The Institute of Personalized Psychiatry and Neurology, St Petersburg V. M. Bekhterev National Medical Research Center for Psychiatry and Neurology, Leading Researcher
+
+R.F. Nasyrova
+The Institute of Personalized Psychiatry and Neurology, St Petersburg V. M. Bekhterev National Medical Research Center for Psychiatry and Neurology, Leading Researcher
+
+M.N. Rumyantseva
+St. Nicholas Psychiatric Hospital, St Petersburg
+
+A.I. Rakhmatullin
+North-Western State Medical University named after I.I. Mechnikov, St. Petersburg
+
+K.I. Sizykh
+Almazov National Medical Research Centre, St. Petersburg
+
+F.N. Kostin
+Independent Researcher, Provided code and conducted statistical analyses
 
 ## Contact
 For any queries regarding this project, please open an issue in this repository or contact [fedor3016@gmail.com].
