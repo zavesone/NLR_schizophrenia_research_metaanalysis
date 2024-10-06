@@ -1,7 +1,7 @@
 # Statistical Summary of Neutrophil-to-Lymphocyte Ratio in Schizophrenia
 ![mygif](https://s12.gifyu.com/images/SDs0v.gif)
 
-This repository contains the Python code used to conduct a statistical summary on the Neutrophil-to-Lymphocyte Ratio (NLR) in patients with various types of schizophrenia compared to healthy controls.
+This repository contains the Python code used to conduct a statistical summary on the Neutrophil-to-Lymphocyte Ratio (NLR) in patients with various types of schizophrenia compared to healthy controls.https://doi.org/10.52667/2712-9179-2024-4-3-12-23
 
 ## Project Evolution
 Initially aimed at meta-analyzing NLR as a risk marker for metabolic disorders in schizophrenia, the project scope was adjusted due to limited available studies. The current analysis focuses on summarizing NLR differences between schizophrenia patients and healthy controls.
